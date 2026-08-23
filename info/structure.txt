@@ -1,0 +1,26 @@
+Case-Meli/
+|
++-- info/
+|   +-- Readme.md
+|   +-- requirements.txt
+|   +-- case-exact-model.pdf
+|   `-- structure.txt
+|
++-- data/
+|   `-- BicyclesRelocationData.xlsx
+|
++-- results/
+|   `-- BicyclesRelocationData_Optimized.xlsx
+|
++-- tests/
+|   `-- pytest_review.py
+|
++-- AI/
+|   `-- AI_assistance_review.ipynb
+|
++-- Presentation/
+|   `-- Business_case.pptx
+|
++-- pytest.ini
+|
+`-- main.ipynb
